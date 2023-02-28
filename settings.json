@@ -1,0 +1,8 @@
+{
+    "editor,fontSize":16,
+    "extensions.ignoreRecommendations":true,
+    "editor, accessibilitySupport":"off",
+    "workpbench.colorTime": "Visual Studio Dark",
+    "edıtor.rules":"(80,120)"
+    
+} 

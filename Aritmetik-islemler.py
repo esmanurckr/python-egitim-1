@@ -22,5 +22,5 @@ print("Kalan nedir?",10 % 3)
 print(20//6)
 
 # Kalansiz Bolme ve Kalani Bulma
- print("divmod'u goster")
- print(divmod(20,6))
+#  print("divmod'u goster")
+#  print(divmod(20,6))
